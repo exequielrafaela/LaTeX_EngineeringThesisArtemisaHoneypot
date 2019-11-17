@@ -8,7 +8,7 @@
 ### Implementación, evaluación y desarrollos funcionales sobre Artemisa (Open Source back-end honeypot)
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/exequielrafaela/master/Figuras/Fig9.jpg" alt="leverage-circleci" width="230"/>
+  <img src="https://raw.githubusercontent.com/exequielrafaela/LaTeX_EngineeringThesisArtemisaHoneypot/master/Figuras/Fig9.jpg" alt="artemisa-honeypot" width="630"/>
 </div>
 
 Barrirero, E. \
@@ -21,6 +21,7 @@ Villarroel, M. T.
 – 2016 –
 
 ### Abstract
+```
 The overall purpose of this engineering degree final work was to implement, evaluate and
 develop new functional features over the Open Source honeypot Artemisa. Through an incentive
 program for research projects from the Science and Technology Department from Cordoba
@@ -67,8 +68,10 @@ Security, Network Protocols and Network Management that conforms the Telecommuni
 Engineering degree, contributing with valuable practical experience for the graduate student
 professional profile.
 Keywords: honeypot, computer security, information security, SIP, VoIP, voice over ip.
+```
 
 ### Resumen
+```
 El objetivo general de este trabajo final de carrera fue el de implementar, evaluar y llevar
 a cabo desarrollos funcionales sobre el honeypot de código abierto Artemisa. A través de un
 programa de incentivos a proyectos de investigación del ministerio de ciencia y tecnología de
@@ -115,3 +118,8 @@ implementación del proyecto en materias como Redes II, Seguridad Informática, 
 Gestión de Red, dentro de la carrera de Ingeniería en Telecomunicaciones, contribuyendo con
 experiencia práctica muy valiosa al perfil profesional del egresado.
 Palabras claves: honeypot, seguridad informática, SIP, VoIP, voz sobre ip.
+```
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/exequielrafaela/LaTeX_EngineeringThesisArtemisaHoneypot/master/Figuras/Fig1.jpg" alt="artemisa-honeypot" width="930"/>
+</div>
