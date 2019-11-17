@@ -11,8 +11,10 @@
   <img src="https://raw.githubusercontent.com/exequielrafaela/LaTeX_EngineeringThesisArtemisaHoneypot/master/Figuras/Fig9.jpg" alt="artemisa-honeypot" width="630"/>
 </div>
 
-Barrirero, E. \
-Villarroel, M. T.
+
+#### Authors
+- Barrirero, E.
+- Villarroel, M. T.
 
 **Director:** Dr.-Ing. Do Carmo, R. D. \
 **Asesor:** Ing. Olocco, G. \
@@ -70,6 +72,10 @@ professional profile.
 Keywords: honeypot, computer security, information security, SIP, VoIP, voice over ip.
 ```
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/exequielrafaela/LaTeX_EngineeringThesisArtemisaHoneypot/master/Figuras/Fig1.jpg" alt="artemisa-honeypot" width="730"/>
+</div>
+
 ### Resumen
 ```
 El objetivo general de este trabajo final de carrera fue el de implementar, evaluar y llevar
@@ -119,7 +125,3 @@ Gestión de Red, dentro de la carrera de Ingeniería en Telecomunicaciones, cont
 experiencia práctica muy valiosa al perfil profesional del egresado.
 Palabras claves: honeypot, seguridad informática, SIP, VoIP, voz sobre ip.
 ```
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/exequielrafaela/LaTeX_EngineeringThesisArtemisaHoneypot/master/Figuras/Fig1.jpg" alt="artemisa-honeypot" width="930"/>
-</div>
