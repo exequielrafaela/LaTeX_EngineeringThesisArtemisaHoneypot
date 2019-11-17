@@ -1,0 +1,283 @@
+@misc{acunetix,
+  author = {Acunetix©},  
+  title = {XSS – The {U}nderestimated {E}xploit. {W}hat is XSS ({C}ross {S}ite {S}cripting)?},
+  year = {2015},  
+  howpublished = {\url{https://www.acunetix.com/websitesecurity/xss/}},
+  note = {[07-11-2015]}}
+
+@ARTICLE{aliakbar,
+ author = "Ali Akbar M., Farooq M., Zubair Rafuique M.",
+ title = "{E}valuating {D}oS {A}ttacks {A}gainst {S}IP-based {V}oIP {S}ystems",
+ journal = "Global Telecommunications Conference, 2009. GLOBECOM 2009. IEEE Volumen Anual",
+ year = "2009",
+ pages = "1--6"}
+
+@misc{antonopolous,
+  author = {{A}ntonopolous A. M.},  
+  title = {{H}oneypots for hacker detection},
+  year = {2011},  
+  howpublished = {\url{http://www.networkworld.com/article/2213251/network-security/honeypots-for-hacker-detection.html}},
+  note = {[06-03-2012]}}
+
+@BOOK{camarillo,
+ title = "{S}IP {D}emystified",
+ publisher = "Ed. McGraw-Hill",
+ year = "2002",
+ author = "{C}amarillo G.",
+ address = "USA"}
+
+#@misc{colabwiki,
+#  author = {{C}olaboradores de {W}ikipedia},  
+#  title = {{M}etasploit. {W}ikipedia, la enciclopedia libre.},
+#  year = {2013},  
+#  howpublished = {\url{http://es.wikipedia.org/w/index.php?title=Metasploit\&oldid=73445561}},
+#  note = {[28-05-2013]}}
+
+@misc{collier,
+  author = {{C}ollier M. D.},  
+  title = {{E}nterprise {T}elecom {S}ecurity {T}hreats},
+  year = {2006},  
+  howpublished = {\url{http://www.securelogix.com/telecom-security.html}},
+  note = {[06-02-2013]}}
+
+@misc{computersec,
+  author = {{C}omputer {S}ecurity {I}nstitute},  
+  title = {15th Annual CSI Computer Crime and Security Survey},
+  year = {2010/2011},  
+  howpublished = {\url{http://www.GoCSI.com}},
+  note = {[06-02-2013]}}
+
+@BOOK{delaetcisco,
+ title = "{C}isco {N}etwork {S}ecurity {F}undamentals",
+ publisher = "Cisco",
+ year = "2005",
+ author = "{D}e {L}aet G., {S}chauwers G.",
+ address = "USA"}
+
+@misc{digium,
+  author = {Digium©},  
+  title = {{G}et {S}tarted. {W}hat is {A}sterisk?},
+  year = {2015},  
+  howpublished = {\url{http://www.asterisk.org/get-started}},
+  note = {[05-03-2015]}}
+
+@ARTICLE{docarmof,
+ author = "Do Carmo R., Festor O., {N}assar M.",
+ title = "{A}rtemisa: {a}n {O}pen-Source {H}oneypot {B}ack-End {t}o {S}upport {S}ecurity {i}n {V}oIP
+{D}omains",
+ journal = "Integrated Network Management (IM), 2011 IFIP/IEEE International
+Symposium on. Volumen Anual",
+ year = "2011",
+ pages = "361--368"}
+
+@misc{docarmom,
+  author = {Do Carmo R., Masri P., Nassar M.},  
+  title = {“{A}rtemisa v1.0 documentation.”},
+  year = {2011},  
+  howpublished =
+{\url{http://artemisa.sourceforge.net/documentation/Introduction.html}},
+  note = {[03-02-2012]}}
+
+@BOOK{eccouncil,
+ title = "{E}thical {H}acking and {C}ountermeasures: {A}ttack {P}hases",
+ publisher = "Ed Cengage Learning",
+ year = "2010",
+ author = "EC-Council",
+ address = "USA"}
+
+@misc{espinoza,
+  author = {{E}spinoza M. P., {M}ontalván H., {P}ilco R},  
+  title = {“{H}oneynet {c}omo {A}poyo {a} {l}a {I}nvestigación {d}e {S}eguridad {d}e {R}edes {e}n
+{e}ntornos {U}niversitarios”.},
+  year = {2009},  
+  howpublished =
+{\url{http://www.utpl.edu.ec/honeynet/wp-content/uploads/2009/09/proyecto-honeynet-utpl.pdf}},
+  note = {[03-01-2012]}}
+
+@ARTICLE{ewaldt,
+ author = "Ewald T., Nassar M., Niccolini S., State R",
+ title = "{H}olistic {V}oIP {i}ntrusion {d}etection and {p}revention {s}ystem",
+ journal = "Proceedings of the 1st international conference on Principles, systems and applications
+of IP telecommunications. Volumen IPTComm '07",
+ year = "2007",
+ pages = "1--9"}
+
+@misc{greene,
+  author = {{G}reene T.},  
+  title = {{B}otnets, cloud computing power may be fueling attacks against {V}o{I}{P}},
+  year = {2011},  
+  howpublished =
+{\url{http://www.networkworld.com/article/2200806/voip/botnets--cloud-computing-power-may-be-fueling-attacks-against-voip.html}},
+  note = {[17-04-2012]}}
+
+@BOOK{hundley,
+ title = "Alcatel-Lucent Scalable IP Networks Self-Study Guide: Preparing for the Network Routing Specialist I (NRS1)
+Certification Exam (4A0-100)",
+ publisher = "Wiley Publishing Inc.",
+ year = "2009",
+ author = "Kent Hundley",
+ address = "Canada"}
+
+@misc{inetworld,
+  author = {{I}nternet {W}orld {S}tats},  
+  title = {{I}nternet {U}sage {S}tatistics {f}or {t}he {A}mericas},
+  year = {2015},  
+  howpublished = {\url{http://www.internetworldstats.com/stats.htm}},
+  note = {[18-12-2015]}}
+
+@misc{johnrfc3665,
+  author = {Johnston A., {D}onovan S., {S}parks R.},  
+  title = {SIP {B}asic {C}all {F}low {E}xamples - {B}est {C}urrent {P}ractice},
+  year = {2003},  
+  howpublished = {\url{https://tools.ietf.org/html/rfc3665}},
+  note = {[RFC: 3665] [05-01-2012]}}
+
+@misc{kidd,
+  author = {{K}idd E.},  
+  title = {{XML-RPC HOWTO}},
+  year = {2012},  
+  howpublished = {\url{http://www.tldp.org/HOWTO/XML-RPC-HOWTO}},
+  note = {[17-04-2014]}}
+
+@misc{lyon,
+  author = {{L}yon G.},  
+  title = {{N}map {S}ecurity {S}canner},
+  year = {2014},  
+  howpublished = {\url{https://nmap.org}},
+  note = {[14-12-2012]}}
+
+\bibitem{20} Lyon G. (2014). ``Nmap Security Scanner''. https://nmap.org
+[Dic 2012].
+
+@misc{madsen,
+  author = {L. Madsen, J. Van Meggelen, R. Bryant},  
+  title = {{A}sterisk™: {T}he {D}efinitive {G}uide},
+  year = {2011},  
+  howpublished = {\url{http://www.asteriskdocs.org/en/3rd\_Edition/asterisk-book-html-chunk/index.html}},
+  note = {[06-01-2014]}}
+
+@misc{messmer,
+  author = {{M}essmer E.},  
+  title = {{M}assive {D}{D}oS attacks a growing threat to {V}o{I}{P} services},
+  year = {2011},  
+  howpublished =
+{\url{http://www.networkworld.com/article/2181743/voip/massive-ddos-attacks-a-growing-threat-to-voip-services.html}},
+  note = {[16-12-2012]}}
+
+@misc{microsoftsql,
+  author = {Microsoft®},  
+  title = {{SQL} {I}njection},
+  year = {2015},  
+  howpublished =
+{\url{
+https://technet.microsoft.com/en-us/library/ms161953%28v=sql.105%29.aspx?f=255&MSPPError=-2147217396
+}},
+  note = {[06-01-2015]}}
+
+@PHDTHESIS{nassarm,
+  author = "{N}assar M.",
+  title = "VoIP {N}etworks {M}onitoring and {I}nstrusion {D}etection",
+ school = "Universidad Henri Poincaré", 
+  year = "2009", 
+  type = "Tesis de Doctorado",
+  address = "Francia"}
+
+@misc{netfilterneira,
+  author = {{N}eira {A}yuso P., {W}elte H.},  
+  title = {{T}he netfilter.org iptables project. {W}hat is iptables?},
+  year = {2014},  
+  howpublished = {\url{http://www.netfilter.org/projects/iptables/}},
+  note = {[05-04-2014]}}
+
+@misc{niemi,
+  author = {{A}. {N}iemi},  
+  title = {{S}ession {I}nitiation {P}rotocol (SIP) {E}xtension for {E}vent {S}tate {P}ublication},
+  year = {2004},  
+  howpublished = {\url{https://www.ietf.org/rfc/rfc3903.txt}},
+  note = {[RFC: 3903] [09-01-2012]}}
+
+@BOOK{pachghare,
+ title = "Cryptography and Information Security",
+ publisher = "PHI Learning Pvt. Ltd.",
+ year = "2008",
+ author = "V. K. Pachghare",
+ address = "India"}
+
+@misc{python,
+  author = {{P}ython {S}oftware {F}oundation},  
+  title = {{P}ython 2.7 - {T}he {P}ython {S}tandard {L}ibrary documentation},
+  year = {2014},  
+  howpublished = {\url{http://docs.python.org/2/library/}},
+  note = {[10-04-2015]}}
+
+@misc{rosenberg,
+  author = {{R}osenberg J., {S}chulzrinne H., {C}amarillo G., {J}ohnston A.},  
+  title = {SIP: Session Initiation Protocol},
+  year = {2002},  
+  howpublished = {\url{https://tools.ietf.org/html/rfc3261\#section-21.5.1}},
+  note = {[RFC: 3261] [07-01-2012]}}
+
+@misc{reingold,
+  author = {{R}eingold E.},  
+  title = {{T}he {T}uring {T}est: {A}lan {T}uring and the {I}mitation {G}ame},
+  year = {2009},  
+  howpublished = {\url{http://psych.utoronto.ca/users/reingold/courses/ai/turing.html}},
+  note = {[10-04-2012]}}
+
+@misc{riehle,
+  author = {{R}iehle D.},  
+  title = {{F}ramework {D}esign: {A} {R}ole {M}odeling {A}pproach},
+  year = {2000},  
+  howpublished = {\url{http://dirkriehle.com/computer-science/research/dissertation/diss-a4.pdf}},
+  note = {[09-01-2014]}}
+
+@misc{rosenberg,
+  author = {{R}osenberg J., {S}chulzrinne H., {C}amarillo G., {J}ohnston A.},  
+  title = {SIP: Session Initiation Protocol},
+  year = {2002},  
+  howpublished = {\url{https://tools.ietf.org/html/rfc3261\#section-21.5.1}},
+  note = {[RFC: 3261] [07-01-2012]}}
+
+@misc{shair,
+  author = {{S}hai R.},  
+  title = {{P}entesting {VOIP}},
+  year = {2011},  
+  howpublished = {\url{http://www.backtrack-linux.org/wiki/index.php/Pentesting\_VOIP}},
+  note = {[07-06-2013]}}
+
+@misc{symantec,
+  author = {{S}ymantec TM® {T}echNet},  
+  title = {{V}ulnerability {T}rends. {Z}ero-{D}ay {V}ulnerabilities},
+  year = {2011},  
+  howpublished =
+{\url{
+http://securityresponse.symantec.com/threatreport/topic.jsp?id=vulnerability_trends&aid=zero_day_vul
+nerabilities}},
+  note = {[15-06-2012]}}
+
+@PHDTHESIS{trapp,
+  author = "{T}rapp {F}lores J. W.",
+  title = "ICIHONEY: {D}iseño e {I}mplementación de una {R}ed {T}rampa en el {I}nstituto de
+{I}nformática de la {U}niversidad {A}ustral de {C}hile",
+ school = "Escuela de Ingeniería Civil en Informática, Universidad Austral de Chile Instituto de
+Informática", 
+  year = "2009", 
+  type = "Tesis",
+  address = "Chile"}
+
+@misc{weichen,
+  author = {{W}ei {C}hen},  
+  title = {SIP {p}rogramming for the {J}ava developer},
+  year = {2006},  
+  howpublished =
+{\url{
+http://www.javaworld.com/article/2071781/java-web-development/sip-programming-for-the-java-developer
+.html}},
+  note = {[05-01-2012]}}
+
+@misc{wheeler,
+  author = {{W}heeler D.},  
+  title = {Secure {P}rogramming for {L}inux and {U}nix HOWTO},
+  year = {2004},  
+  howpublished = {\url{http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html}},
+  note = {[05-02-2012]}}

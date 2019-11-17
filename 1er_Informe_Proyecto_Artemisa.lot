@@ -1,0 +1,29 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Resultado de las pruebas. \cite {docarmof}\relax }}{34}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Caracter\IeC {\'\i }sticas y especificaciones topolog\IeC {\'\i }a \emph {testbed} \emph {testing} \ac {ubp}, caso 1.\relax }}{38}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Caracter\IeC {\'\i }sticas y especificaciones topolog\IeC {\'\i }a \emph {testbed} \emph {testing} \ac {ubp}, caso 2.\relax }}{54}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Caracter\IeC {\'\i }sticas y especificaciones topolog\IeC {\'\i }a \emph {testbed} \emph {testing} \ac {ubp}, caso 3.\relax }}{56}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Tabla resumen resultados caso 1.\relax }}{57}
+\contentsline {table}{\numberline {3.6}{\ignorespaces Tabla resumen resultados caso 2.\relax }}{57}
+\contentsline {table}{\numberline {3.7}{\ignorespaces Tabla resumen resultados caso 3.\relax }}{58}
+\contentsline {table}{\numberline {3.8}{\ignorespaces Caracter\IeC {\'\i }sticas y especificaciones topolog\IeC {\'\i }a \emph {testbed} \ac {ubp}.\relax }}{60}
+\contentsline {table}{\numberline {3.9}{\ignorespaces Caracter\IeC {\'\i }sticas y especificaciones topolog\IeC {\'\i }a \emph {testbed} West Metropolitan.\relax }}{64}
+\contentsline {table}{\numberline {3.10}{\ignorespaces Estad\IeC {\'\i }sticas por direcci\IeC {\'o}n \ac {ip} de origen (Metropolitan \emph {testbed}).\relax }}{89}
+\contentsline {table}{\numberline {3.11}{\ignorespaces Estad\IeC {\'\i }sticas por direcci\IeC {\'o}n \ac {ip} de destino (Metropolitan \emph {testbed}).\relax }}{91}
+\contentsline {table}{\numberline {3.12}{\ignorespaces Estad\IeC {\'\i }sticas por direcci\IeC {\'o}n \ac {ip} de origen (\ac {ubp} \emph {testbed}).\relax }}{93}
+\contentsline {table}{\numberline {3.13}{\ignorespaces Estad\IeC {\'\i }sticas por direcci\IeC {\'o}n \ac {ip} de destino (\ac {ubp} \emph {testbed}).\relax }}{95}
+\contentsline {table}{\numberline {3.14}{\ignorespaces Cantidad de paquetes \ac {sip} total por tipo de mensaje \ac {sip} (Artemisa).\relax }}{133}
+\contentsline {table}{\numberline {3.15}{\ignorespaces Cantidad de paquetes \ac {sip} total por tipo de m\IeC {\'e}todo \ac {sip} (Artemisa).\relax }}{133}
+\contentsline {table}{\numberline {3.16}{\ignorespaces Cantidad de llamadas \ac {voip} total (Artemisa).\relax }}{133}
+\contentsline {table}{\numberline {3.17}{\ignorespaces Cantidad de paquetes \ac {sip} total por tipo de mensaje \ac {sip} (\emph {registrars}).\relax }}{134}
+\contentsline {table}{\numberline {3.18}{\ignorespaces Cantidad de paquetes \ac {sip} total por tipo de m\IeC {\'e}todo \ac {sip} (\emph {registrars}).\relax }}{134}
+\contentsline {table}{\numberline {3.19}{\ignorespaces Cantidad de llamadas \ac {voip} \ac {sip} total (\emph {registrars}).\relax }}{134}
+\contentsline {table}{\numberline {3.20}{\ignorespaces Cantidad de paquetes \ac {sip} total por tipo de ataque.\relax }}{134}
+\contentsline {table}{\numberline {3.21}{\ignorespaces Cantidad de paquetes \ac {sip} por tipo ataque (Asterisk Metropolitan).\relax }}{135}
+\contentsline {table}{\numberline {3.22}{\ignorespaces Wireshark \ac {sip} Statistics with filter (\ac {ubp} \ac {ser} Regitrar).\relax }}{137}
+\contentsline {table}{\numberline {3.23}{\ignorespaces Wireshark \ac {voip} calls (\ac {ubp} \ac {ser} \emph {registrar}).\relax }}{138}
+\contentsline {table}{\numberline {3.24}{\ignorespaces Wireshark \ac {sip} Statistics with filter (\ac {ubp} \ac {ser} registered Artemisa).\relax }}{139}
+\contentsline {table}{\numberline {3.25}{\ignorespaces Wireshark VoIP Calls (\ac {ubp} \ac {ser} registered Artemisa).\relax }}{140}

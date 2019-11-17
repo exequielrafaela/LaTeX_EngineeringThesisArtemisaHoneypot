@@ -1,0 +1,236 @@
+\begin{thebibliography}{}
+
+\bibitem[Acunetix©, 2015]{acunetix}
+Acunetix© (2015).
+\newblock Xss – the {U}nderestimated {E}xploit. {W}hat is xss ({C}ross {S}ite
+  {S}cripting)?
+\newblock \url{https://www.acunetix.com/websitesecurity/xss/}.
+\newblock [07-11-2015].
+
+\bibitem[{A}ntonopolous A.~M., 2011]{antonopolous}
+{A}ntonopolous A.~M. (2011).
+\newblock {H}oneypots for hacker detection.
+\newblock
+  \url{http://www.networkworld.com/article/2213251/network-security/honeypots-%
+for-hacker-detection.html}.
+\newblock [06-03-2012].
+
+\bibitem[{C}amarillo G., 2002]{camarillo}
+{C}amarillo G. (2002).
+\newblock {\em {S}IP {D}emystified}.
+\newblock Ed. McGraw-Hill, USA.
+
+\bibitem[{C}ollier M.~D., 2006]{collier}
+{C}ollier M.~D. (2006).
+\newblock {E}nterprise {T}elecom {S}ecurity {T}hreats.
+\newblock \url{http://www.securelogix.com/telecom-security.html}.
+\newblock [06-02-2013].
+
+\bibitem[{C}omputer~{S}ecurity {I}nstitute, 2011]{computersec}
+{C}omputer~{S}ecurity {I}nstitute (2010/2011).
+\newblock 15th annual csi computer crime and security survey.
+\newblock \url{http://www.GoCSI.com}.
+\newblock [06-02-2013].
+
+\bibitem[{D}e~{L}aet G., 2005]{delaetcisco}
+{D}e~{L}aet G., S.~G. (2005).
+\newblock {\em {C}isco {N}etwork {S}ecurity {F}undamentals}.
+\newblock Cisco, USA.
+
+\bibitem[Digium©, 2015]{digium}
+Digium© (2015).
+\newblock {G}et {S}tarted. {W}hat is {A}sterisk?
+\newblock \url{http://www.asterisk.org/get-started}.
+\newblock [05-03-2015].
+
+\bibitem[Do~Carmo~R., 2011a]{docarmof}
+Do~Carmo~R., Festor~O., N.~M. (2011a).
+\newblock {A}rtemisa: {a}n {O}pen-source {H}oneypot {B}ack-end {t}o {S}upport
+  {S}ecurity {i}n {V}oip {D}omains.
+\newblock {\em Integrated Network Management (IM), 2011 IFIP/IEEE International
+  Symposium on. Volumen Anual}, pages 361--368.
+
+\bibitem[Do~Carmo~R., 2011b]{docarmom}
+Do~Carmo~R., Masri~P., N.~M. (2011b).
+\newblock “{A}rtemisa v1.0 documentation.”.
+\newblock
+  \url{http://artemisa.sourceforge.net/documentation/Introduction.html}.
+\newblock [03-02-2012].
+
+\bibitem[EC-Council, 2010]{eccouncil}
+EC-Council (2010).
+\newblock {\em {E}thical {H}acking and {C}ountermeasures: {A}ttack {P}hases}.
+\newblock Ed Cengage Learning, USA.
+
+\bibitem[{E}spinoza M.~P., 2009]{espinoza}
+{E}spinoza M.~P., {M}ontalván~H., P.~R. (2009).
+\newblock “{H}oneynet {c}omo {A}poyo {a} {l}a {I}nvestigación {d}e
+  {S}eguridad {d}e {R}edes {e}n {e}ntornos {U}niversitarios”.
+\newblock
+  \url{http://www.utpl.edu.ec/honeynet/wp-content/uploads/2009/09/proyecto-hon%
+eynet-utpl.pdf}.
+\newblock [03-01-2012].
+
+\bibitem[Ewald~T., 2007]{ewaldt}
+Ewald~T., Nassar~M., N. S. S.~R. (2007).
+\newblock {H}olistic {V}oip {i}ntrusion {d}etection and {p}revention {s}ystem.
+\newblock {\em Proceedings of the 1st international conference on Principles,
+  systems and applications of IP telecommunications. Volumen IPTComm '07},
+  pages 1--9.
+
+\bibitem[{G}reene T., 2011]{greene}
+{G}reene T. (2011).
+\newblock {B}otnets, cloud computing power may be fueling attacks against
+  {V}o{I}{P}.
+\newblock
+  \url{http://www.networkworld.com/article/2200806/voip/botnets--cloud-computi%
+ng-power-may-be-fueling-attacks-against-voip.html}.
+\newblock [17-04-2012].
+
+\bibitem[Hundley, 2009]{hundley}
+Hundley, K. (2009).
+\newblock {\em Alcatel-Lucent Scalable IP Networks Self-Study Guide: Preparing
+  for the Network Routing Specialist I (NRS1) Certification Exam (4A0-100)}.
+\newblock Wiley Publishing Inc., Canada.
+
+\bibitem[{I}nternet~{W}orld {S}tats, 2015]{inetworld}
+{I}nternet~{W}orld {S}tats (2015).
+\newblock {I}nternet {U}sage {S}tatistics {f}or {t}he {A}mericas.
+\newblock \url{http://www.internetworldstats.com/stats.htm}.
+\newblock [18-12-2015].
+
+\bibitem[Johnston~A., 2003]{johnrfc3665}
+Johnston~A., {D}onovan~S., S.~R. (2003).
+\newblock Sip {B}asic {C}all {F}low {E}xamples - {B}est {C}urrent {P}ractice.
+\newblock \url{https://tools.ietf.org/html/rfc3665}.
+\newblock [RFC: 3665] [05-01-2012].
+
+\bibitem[{K}idd E., 2012]{kidd}
+{K}idd E. (2012).
+\newblock {XML-RPC HOWTO}.
+\newblock \url{http://www.tldp.org/HOWTO/XML-RPC-HOWTO}.
+\newblock [17-04-2014].
+
+\bibitem[L.~Madsen, 2011]{madsen}
+L.~Madsen, J. Van~Meggelen, R.~B. (2011).
+\newblock {A}sterisk™: {T}he {D}efinitive {G}uide.
+\newblock
+  \url{http://www.asteriskdocs.org/en/3rd\_Edition/asterisk-book-html-chunk/in%
+dex.html}.
+\newblock [06-01-2014].
+
+\bibitem[{L}yon G., 2014]{lyon}
+{L}yon G. (2014).
+\newblock {N}map {S}ecurity {S}canner.
+\newblock \url{https://nmap.org}.
+\newblock [14-12-2012].
+
+\bibitem[{M}essmer E., 2011]{messmer}
+{M}essmer E. (2011).
+\newblock {M}assive {D}{D}os attacks a growing threat to {V}o{I}{P} services.
+\newblock
+  \url{http://www.networkworld.com/article/2181743/voip/massive-ddos-attacks-a%
+-growing-threat-to-voip-services.html}.
+\newblock [16-12-2012].
+
+\bibitem[Microsoft®, 2015]{microsoftsql}
+Microsoft® (2015).
+\newblock {SQL} {I}njection.
+\newblock \url{
+  https://technet.microsoft.com/en-us/library/ms161953%28v=sql.105%29.aspx?f=2%
+55&MSPPError=-2147217396 }.
+\newblock [06-01-2015].
+
+\bibitem[{N}assar M., 2009]{nassarm}
+{N}assar M. (2009).
+\newblock {\em VoIP {N}etworks {M}onitoring and {I}nstrusion {D}etection}.
+\newblock Tesis de doctorado, Universidad Henri Poincaré, Francia.
+
+\bibitem[{N}eira~{A}yuso P., 2014]{netfilterneira}
+{N}eira~{A}yuso P., W.~H. (2014).
+\newblock {T}he netfilter.org iptables project. {W}hat is iptables?
+\newblock \url{http://www.netfilter.org/projects/iptables/}.
+\newblock [05-04-2014].
+
+\bibitem[{N}iemi, 2004]{niemi}
+{N}iemi, A. (2004).
+\newblock {S}ession {I}nitiation {P}rotocol (sip) {E}xtension for {E}vent
+  {S}tate {P}ublication.
+\newblock \url{https://www.ietf.org/rfc/rfc3903.txt}.
+\newblock [RFC: 3903] [09-01-2012].
+
+\bibitem[Pachghare, 2008]{pachghare}
+Pachghare, V.~K. (2008).
+\newblock {\em Cryptography and Information Security}.
+\newblock PHI Learning Pvt. Ltd., India.
+
+\bibitem[{P}ython~{S}oftware {F}oundation, 2014]{python}
+{P}ython~{S}oftware {F}oundation (2014).
+\newblock {P}ython 2.7 - {T}he {P}ython {S}tandard {L}ibrary documentation.
+\newblock \url{http://docs.python.org/2/library/}.
+\newblock [10-04-2015].
+
+\bibitem[Rapid7©, 2015]{metasploit}
+Rapid7© (2015).
+\newblock {M}etasploit documentation. {W}hat is {M}etasploit?
+\newblock \url{https://help.rapid7.com/metasploit/index.html}.
+\newblock [28-05-2015].
+
+\bibitem[{R}eingold E., 2009]{reingold}
+{R}eingold E. (2009).
+\newblock {T}he {T}uring {T}est: {A}lan {T}uring and the {I}mitation {G}ame.
+\newblock \url{http://psych.utoronto.ca/users/reingold/courses/ai/turing.html}.
+\newblock [10-04-2012].
+
+\bibitem[{R}iehle D., 2000]{riehle}
+{R}iehle D. (2000).
+\newblock {F}ramework {D}esign: {A} {R}ole {M}odeling {A}pproach.
+\newblock
+  \url{http://dirkriehle.com/computer-science/research/dissertation/diss-a4.pd%
+f}.
+\newblock [09-01-2014].
+
+\bibitem[{R}osenberg J., 2002]{rosenberg}
+{R}osenberg J., {S}chulzrinne~H., C. G. J.~A. (2002).
+\newblock Sip: Session initiation protocol.
+\newblock \url{https://tools.ietf.org/html/rfc3261\#section-21.5.1}.
+\newblock [RFC: 3261] [07-01-2012].
+
+\bibitem[{S}hai R., 2011]{shair}
+{S}hai R. (2011).
+\newblock {P}entesting {VOIP}.
+\newblock \url{http://www.backtrack-linux.org/wiki/index.php/Pentesting\_VOIP}.
+\newblock [07-06-2013].
+
+\bibitem[{S}ymantec TM®~{T}echNet, 2011]{symantec}
+{S}ymantec TM®~{T}echNet (2011).
+\newblock {V}ulnerability {T}rends. {Z}ero-{D}ay {V}ulnerabilities.
+\newblock \url{
+  http://securityresponse.symantec.com/threatreport/topic.jsp?id=vulnerability%
+_trends&aid=zero_day_vul nerabilities}.
+\newblock [15-06-2012].
+
+\bibitem[{T}rapp~{F}lores J.~W., 2009]{trapp}
+{T}rapp~{F}lores J.~W. (2009).
+\newblock {\em ICIHONEY: {D}iseño e {I}mplementación de una {R}ed {T}rampa en
+  el {I}nstituto de {I}nformática de la {U}niversidad {A}ustral de {C}hile}.
+\newblock Tesis, Escuela de Ingeniería Civil en Informática, Universidad
+  Austral de Chile Instituto de Informática, Chile.
+
+\bibitem[{W}ei {C}hen, 2006]{weichen}
+{W}ei {C}hen (2006).
+\newblock Sip {p}rogramming for the {J}ava developer.
+\newblock \url{
+  http://www.javaworld.com/article/2071781/java-web-development/sip-programmin%
+g-for-the-java-developer .html}.
+\newblock [05-01-2012].
+
+\bibitem[{W}heeler D., 2004]{wheeler}
+{W}heeler D. (2004).
+\newblock Secure {P}rogramming for {L}inux and {U}nix howto.
+\newblock
+  \url{http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.htm%
+l}.
+\newblock [05-02-2012].
+
+\end{thebibliography}

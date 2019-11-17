@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: 1er_Informe_Proyecto_Artemisa.aux
+The style file: apalike.bst
+Database file #1: miscitas.bib
+Repeated entry---line 234 of file miscitas.bib
+ : @misc{rosenberg
+ :                ,
+I'm skipping whatever remains of this entry
+Too many commas in name 1 of "Ewald T., Nassar M., Niccolini S., State R" for entry ewaldt
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "Ewald T., Nassar M., Niccolini S., State R" for entry ewaldt
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "{R}osenberg J., {S}chulzrinne H., {C}amarillo G., {J}ohnston A." for entry rosenberg
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "{R}osenberg J., {S}chulzrinne H., {C}amarillo G., {J}ohnston A." for entry rosenberg
+while executing---line 1020 of file apalike.bst
+Too many commas in name 1 of "Ewald T., Nassar M., Niccolini S., State R" for entry ewaldt
+while executing---line 1095 of file apalike.bst
+Too many commas in name 1 of "{R}osenberg J., {S}chulzrinne H., {C}amarillo G., {J}ohnston A." for entry rosenberg
+while executing---line 1095 of file apalike.bst
+You've used 35 entries,
+            1935 wiz_defined-function locations,
+            660 strings with 9403 characters,
+and the built_in function-call counts, 9384 in all, are:
+= -- 1004
+> -- 245
+< -- 37
++ -- 71
+- -- 70
+* -- 570
+:= -- 1831
+add.period$ -- 131
+call.type$ -- 35
+change.case$ -- 205
+chr.to.int$ -- 34
+cite$ -- 35
+duplicate$ -- 396
+empty$ -- 604
+format.name$ -- 105
+if$ -- 1776
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 12
+newline$ -- 204
+num.names$ -- 105
+pop$ -- 105
+preamble$ -- 1
+purify$ -- 210
+quote$ -- 0
+skip$ -- 342
+stack$ -- 0
+substring$ -- 468
+swap$ -- 23
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 200
+warning$ -- 0
+while$ -- 76
+width$ -- 0
+write$ -- 485
+(There were 7 error messages)

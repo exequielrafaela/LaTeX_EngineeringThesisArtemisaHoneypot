@@ -1,0 +1,117 @@
+\select@language {spanish}
+\setcounter {tocdepth}{2}
+\contentsline {chapter}{\numberline {1}Introducci\'on}{1}
+\contentsline {chapter}{\numberline {2}Materiales y M\'etodos}{5}
+\contentsline {section}{2.1\ \ \ \ Estudio exploratorio de car\IeC {\'a}cter bibliogr\IeC {\'a}fico de \ac {voip} \ac {sip} conceptos b\IeC {\'a}sicos, entidades y su seguridad}{7}
+\contentsline {section}{2.2\ \ \ \ Estudio exploratorio de car\IeC {\'a}cter bibliogr\IeC {\'a}fico de se\IeC {\~n}alizaci\IeC {\'o}n \ac {sip} (llamada y registro)}{7}
+\contentsline {section}{2.3\ \ \ \ Estudio exploratorio de car\IeC {\'a}cter bibliogr\IeC {\'a}fico de los riesgos y seguridad en \ac {voip}}{7}
+\contentsline {section}{2.4\ \ \ \ Estudio exploratorio sobre \emph {honeypots} \ac {voip} espec\IeC {\'\i }ficos y Artemisa \emph {honeypot}}{7}
+\contentsline {section}{2.5\ \ \ \ Evaluaci\IeC {\'o}n de respuestas emp\IeC {\'\i }ricas y enfoque en desarrollos funcionales del sistema de seguridad Artemisa a partir de su implementaci\IeC {\'o}n y experimentaci\IeC {\'o}n en los entornos propuestos}{7}
+\contentsline {section}{2.6\ \ \ \ Estudio descriptivo estad\IeC {\'\i }stico de las caracter\IeC {\'\i }sticas de Artemisa \emph {honeypot} en entornos reales en mesa de prueba (\emph {testbed})}{7}
+\contentsline {section}{2.7\ \ \ \ Desarrollos Funcionales sobre Artemisa}{7}
+\contentsline {chapter}{\numberline {3}Resultados y Discusiones}{8}
+\contentsline {section}{\numberline {3.1}Estudio exploratorio de car\IeC {\'a}cter bibliogr\IeC {\'a}fico de \ac {voip} \ac {sip} sus conceptos b\IeC {\'a}sicos, entidades y su seguridad}{8}
+\contentsline {subsection}{\numberline {3.1.1}Entidades de red \ac {sip}}{9}
+\contentsline {section}{\numberline {3.2}Estudio exploratorio de car\IeC {\'a}cter bibliogr\IeC {\'a}fico de se\IeC {\~n}alizaci\IeC {\'o}n \ac {sip} (llamada y registro)}{11}
+\contentsline {section}{\numberline {3.3}Estudio exploratorio de car\IeC {\'a}cter bibliogr\IeC {\'a}fico de los riesgos y seguridad en \ac {voip}}{14}
+\contentsline {subsection}{\numberline {3.3.1}Servicios de red}{14}
+\contentsline {subsection}{\numberline {3.3.2}Protocolos de \emph {media}}{15}
+\contentsline {subsection}{\numberline {3.3.3}Protocolos de se\IeC {\~n}alizaci\IeC {\'o}n}{15}
+\contentsline {section}{\numberline {3.4}Estudio exploratorio sobre \emph {honeypots} \ac {voip} espec\IeC {\'\i }ficos y Artemisa \emph {honeypot}}{20}
+\contentsline {subsection}{\numberline {3.4.1}Introducci\IeC {\'o}n a Artemisa honeypot}{21}
+\contentsline {subsection}{\numberline {3.4.2}Artemisa honeypot y sus caracter\IeC {\'\i }sticas funcionales}{22}
+\contentsline {subsection}{\numberline {3.4.3}Modulos e implementaci\IeC {\'o}n del honeypot}{25}
+\contentsline {subsection}{\numberline {3.4.4}Experimentaci\IeC {\'o}n y casos de estudio}{30}
+\contentsline {section}{\numberline {3.5}Evaluaci\IeC {\'o}n de respuestas emp\IeC {\'\i }ricas y enfoque en desarrollos funcionales del sistema de seguridad Artemisa a partir de su implementaci\IeC {\'o}n y experimentaci\IeC {\'o}n en los entornos propuestos}{35}
+\contentsline {subsection}{\numberline {3.5.1}Ataques, tipos de ataques de hackers y tipos de hackers}{35}
+\contentsline {subsubsection}{\numberline {3.5.1.1}Ataques}{35}
+\contentsline {subsubsection}{\numberline {3.5.1.2}Tipos de ataques de hackers}{35}
+\contentsline {subsubsection}{\numberline {3.5.1.3}\emph {Hacktivism} \& clases de hackers}{36}
+\contentsline {subsection}{\numberline {3.5.2}Modelo de atacante: interno y externo}{37}
+\contentsline {subsubsection}{\numberline {3.5.2.1}Atacante interno}{37}
+\contentsline {subsubsection}{\numberline {3.5.2.2}Atacante externo}{37}
+\contentsline {subsection}{\numberline {3.5.3}Caso 1: dominio de colisi\IeC {\'o}n y \emph {broadcast} compartidos}{38}
+\contentsline {subsubsection}{\numberline {3.5.3.1}Information gathering (recopilaci\IeC {\'o}n de informaci\IeC {\'o}n)}{40}
+\contentsline {paragraph}{\emph {Scanning} (escaneo)\\}{40}
+\contentsline {subsubsection}{\numberline {3.5.3.2}\emph {Enumerating} (enumeraci\IeC {\'o}n)}{45}
+\contentsline {subsubsection}{\numberline {3.5.3.3}Monitoreo de tr\IeC {\'a}fico y espionaje de llamadas.\\}{50}
+\contentsline {subsubsection}{\numberline {3.5.3.4}Denegaci\IeC {\'o}n de Servicio.\\}{50}
+\contentsline {subsubsection}{\numberline {3.5.3.5}Suplantaci\IeC {\'o}n de identificaci\IeC {\'o}n de llamadas\\}{52}
+\contentsline {subsubsection}{\numberline {3.5.3.6}Ringing attack}{53}
+\contentsline {subsection}{\numberline {3.5.4}Caso 2: dominio de \emph {broadcast} compartido}{54}
+\contentsline {subsection}{\numberline {3.5.5}Caso 3: dominio p\IeC {\'u}blico. Colisi\IeC {\'o}n y \emph {broadcast} no compratidos}{55}
+\contentsline {subsection}{\numberline {3.5.6}Resumen de resultados casos 1, 2 y 3}{57}
+\contentsline {section}{\numberline {3.6}Estudio descriptivo estad\IeC {\'\i }stico de las caracter\IeC {\'\i }sticas de Artemisa honeypot en entornos reales en mesa de prueba}{59}
+\contentsline {subsection}{\numberline {3.6.1}Implementaci\IeC {\'o}n \emph {testbed} \ac {ubp}}{60}
+\contentsline {subsection}{\numberline {3.6.2}Implementaci\IeC {\'o}n \emph {testbed} Metropolitan}{63}
+\contentsline {subsection}{\numberline {3.6.3}Configuraciones}{64}
+\contentsline {subsection}{\numberline {3.6.4}Estudio descriptivo estad\IeC {\'\i }stico en entornos reales en mesa de prueba}{65}
+\contentsline {paragraph}{Metropolitan testbed \\ \\}{65}
+\contentsline {paragraph}{\ac {ubp} \emph {testbed} \\ \\}{66}
+\contentsline {subsection}{\numberline {3.6.5}Estad\IeC {\'\i }sticas Artemisa}{68}
+\contentsline {subsubsection}{\numberline {3.6.5.1}Cantidad de paquetes \ac {sip} total por tipo de mensaje \ac {sip} instancias Artemisa}{68}
+\contentsline {subsubsection}{\numberline {3.6.5.2}Cantidad de paquetes \ac {sip} total por tipo de m\IeC {\'e}todo \ac {sip} instancias Artemisa}{71}
+\contentsline {subsubsection}{\numberline {3.6.5.3}Cantidad de llamadas \ac {voip} \ac {sip} total instancias Artemisa}{75}
+\contentsline {subsection}{\numberline {3.6.6}Estad\IeC {\'\i }sticas \emph {registrars} SIP}{75}
+\contentsline {subsubsection}{\numberline {3.6.6.1}Cantidad de paquetes \ac {sip} total por tipo de mensaje \ac {sip} \emph {registrars}}{75}
+\contentsline {subsubsection}{\numberline {3.6.6.2}Cantidad de paquetes \ac {sip} total por tipo de m\IeC {\'e}todo \ac {sip} \emph {registrars}}{78}
+\contentsline {subsubsection}{\numberline {3.6.6.3}Cantidad de llamadas \ac {voip} \ac {sip} total \emph {registrars}}{81}
+\contentsline {subsection}{\numberline {3.6.7}Estad\IeC {\'\i }sticas ataques \ac {voip}}{81}
+\contentsline {subsubsection}{\numberline {3.6.7.1}Cantidad de paquetes \ac {sip} total por tipo de ataque}{81}
+\contentsline {subsubsection}{\numberline {3.6.7.2}Cantidad de paquetes \ac {sip} por tipo ataque (Asterisk Metropolitan)}{83}
+\contentsline {subsection}{\numberline {3.6.8}Estad\IeC {\'\i }stica tr\IeC {\'a}fico \ac {voip} \ac {sip}}{88}
+\contentsline {subsection}{\numberline {3.6.9}Resumen de resultados}{97}
+\contentsline {section}{\numberline {3.7}Desarrollos Funcionales sobre Artemisa}{99}
+\contentsline {subsection}{\numberline {3.7.1}\ac {xmlrpc} \ac {api}}{99}
+\contentsline {subsubsection}{\numberline {3.7.1.1}Clase \ac {xmlrpc} Server}{99}
+\contentsline {subsubsection}{\numberline {3.7.1.2}Clase \ac {xmlrpc} Server para manejo de solicitudes}{99}
+\contentsline {subsubsection}{\numberline {3.7.1.3}C\IeC {\'o}digo m\IeC {\'e}todo XmlServer()}{100}
+\contentsline {subsubsection}{\numberline {3.7.1.4}C\IeC {\'o}digo m\IeC {\'e}todo ModifyExt()}{100}
+\contentsline {subsubsection}{\numberline {3.7.1.5}modify\_extension() para agregar o quitar extensiones}{102}
+\contentsline {subsubsection}{\numberline {3.7.1.6}restart() para reiniciar el proceso de Artemisa}{103}
+\contentsline {subsection}{\numberline {3.7.2}\ac {xmlrpc} ejemplo de implementaci\IeC {\'o}n}{103}
+\contentsline {paragraph}{Ejecuci\IeC {\'o}n de Artemisa seg\IeC {\'u}n el escenario planteado}{104}
+\contentsline {paragraph}{Inviteflood cli}{106}
+\contentsline {paragraph}{ast\_log\_pars.py}{108}
+\contentsline {paragraph}{artemisa\_XML-RPC\_client.py}{109}
+\contentsline {subsection}{\numberline {3.7.3}Actualizaci\IeC {\'o}n de \emph {fingerprints}}{115}
+\contentsline {subsection}{\numberline {3.7.4}Resumen de resultados}{117}
+\contentsline {section}{\numberline {3.8}Conclusiones}{118}
+\contentsline {chapter}{Bibliograf\'{\i }a}{120}
+\contentsline {chapter}{Siglas y Acr\'onimos}{123}
+\contentsline {chapter}{Anexo A: carta de participaci\IeC {\'o}n en foros y comunidades de seguridad inform\IeC {\'a}tica}{126}
+\contentsline {paragraph}{Carta de participaci\IeC {\'o}n en foros y comunidades de seguridad inform\IeC {\'a}tica\\ \\}{127}
+\contentsline {chapter}{Anexo B: SIP - RFC 3665}{129}
+\contentsline {paragraph}{SIP - RFC 3665 \cite {johnrfc3665}}{130}
+\contentsline {paragraph}{Successful Session Establishment}{130}
+\contentsline {chapter}{Anexo C: estudio descriptivo estad\IeC {\'\i }stico en entornos reales en mesa de prueba}{132}
+\contentsline {paragraph}{Anexo unidad estudio descriptivo estad\IeC {\'\i }stico en entornos reales en mesa de prueba (testbeds)\\ \\}{133}
+\contentsline {paragraph}{Tablas y gr\IeC {\'a}ficos Wireshark unidad estudio descriptivo estad\IeC {\'\i }stico en entornos reales en mesa de prueba (\emph {testbeds})\\}{136}
+\contentsline {chapter}{Anexo D: configuraciones componentes \emph {testbeds} (\emph {firewall} Iptables, Artemisa, Asterisk, \ac {ser})}{142}
+\contentsline {paragraph}{Configuraciones\\}{143}
+\contentsline {paragraph}{Firewall Iptables}{143}
+\contentsline {paragraph}{root@firewall\# iptables-save}{143}
+\contentsline {paragraph}{root@firewall\# iptables -L}{144}
+\contentsline {paragraph}{Sip Express Router (SER)}{147}
+\contentsline {paragraph}{ser.cfg}{147}
+\contentsline {paragraph}{Asterisk PBX}{150}
+\contentsline {paragraph}{extension.conf}{150}
+\contentsline {paragraph}{rtp.conf}{151}
+\contentsline {paragraph}{sip.conf}{151}
+\contentsline {paragraph}{voicemail.conf}{152}
+\contentsline {paragraph}{Asterisk CLI}{153}
+\contentsline {paragraph}{Artemisa honeypot}{155}
+\contentsline {paragraph}{Librer\IeC {\'\i }as y Dependencias\\ \\}{155}
+\contentsline {paragraph}{actions.conf}{157}
+\contentsline {paragraph}{artemisa.conf}{157}
+\contentsline {paragraph}{behaviour.conf}{158}
+\contentsline {paragraph}{extensions.conf}{159}
+\contentsline {paragraph}{servers.conf}{159}
+\contentsline {chapter}{Anexo E: Artemisa full output ataque SMAP}{161}
+\contentsline {paragraph}{ Informe generado por Artemisa honeypot para el ataque con SMAP a su direcci\IeC {\'o}n \ac {dos}}{162}
+\contentsline {chapter}{Anexo F: To-Do list}{165}
+\contentsline {paragraph}{To-Do \emph {list}:}{166}
+\contentsline {paragraph}{Implementaci\IeC {\'o}n corporativa (entorno en producci\IeC {\'o}n)\\}{166}
+\contentsline {paragraph}{Realizar prueba exhaustiva con herramientas de \emph {penetration testing} \ac {voip}\\}{166}
+\contentsline {paragraph}{Modos activos y agresivo de Artemisa\\}{166}
+\contentsline {paragraph}{Interoperabilidad de Artemisa con VoIP honey\\}{166}

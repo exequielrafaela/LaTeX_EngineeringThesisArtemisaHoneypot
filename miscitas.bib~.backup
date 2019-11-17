@@ -1,0 +1,109 @@
+@ARTICLE{aliakbar,
+ author = "Ali Akbar M., Farooq M., Zubair Rafuique M.",
+ title = "{E}valuating {D}oS {A}ttacks {A}gainst {S}IP-based {V}oIP {S}ystems",
+ journal = "Global Telecommunications Conference, 2009. GLOBECOM 2009. IEEE Volumen Anual",
+ year = "2009",
+ pages = "1--6"}
+
+@BOOK{camarillo,
+ title = "{S}IP {D}emystified",
+ publisher = "Ed. McGraw-Hill",
+ year = "2002",
+ author = "Camarillo G.",
+ address = "USA"}
+
+@misc{collier,
+  author = {{C}ollier M.D.},  
+  title = {{E}nterprise {T}elecom {S}ecurity {T}hreats},
+  year = {2006},  
+  howpublished = {\url{http://www.securelogix.com/telecom-security.html}},
+  note = {[06-02-2013]}}
+
+@misc{computersec,
+  author = {{C}omputer {S}ecurity {I}nstitute},  
+  title = {15th Annual CSI Computer Crime and Security Survey},
+  year = {2010/2011},  
+  howpublished = {\url{http://www.GoCSI.com}},
+  note = {[06-02-2013]}}
+
+@BOOK{delaetcisco,
+ title = "{C}isco {N}etwork {S}ecurity {F}undamentals",
+ publisher = "Cisco",
+ year = "2005",
+ author = "{D}e {L}aet G., {S}chauwers G.",
+ address = "USA"}
+
+@ARTICLE{docarmof,
+ author = "Do Carmo R., {F}estor O., {N}assar M.",
+ title = "{A}rtemisa: {a}n {O}pen-Source {H}oneypot {B}ack-End {t}o {S}upport {S}ecurity {i}n {V}oIP
+{D}omains",
+ journal = "Integrated Network Management (IM), 2011 IFIP/IEEE International
+Symposium on. Volumen Anual",
+ year = "2011",
+ pages = "361--368"}
+
+@misc{espinoza,
+  author = {{E}spinoza M. P., {M}ontalván H., {P}ilco R},  
+  title = {“{H}oneynet {c}omo {A}poyo {a} {l}a {I}nvestigación {d}e {S}eguridad {d}e {R}edes {e}n
+{e}ntornos {U}niversitarios”.},
+  year = {2009},  
+  howpublished =
+{\url{http://www.utpl.edu.ec/honeynet/wp-content/uploads/2009/09/proyecto-honeynet-utpl.pdf}},
+  note = {[03-01-2012]}}
+
+@ARTICLE{ewaldt,
+ author = "Ewald T., Nassar M., {N}iccolini S., {S}tate R",
+ title = "{H}olistic {V}oIP {i}ntrusion {d}etection and {p}revention {s}ystem",
+ journal = "Proceedings of the 1st international conference on Principles, systems and applications
+of IP telecommunications. Volumen IPTComm '07",
+ year = "2007",
+ pages = "1--9"}
+
+@misc{inetworld,
+  author = {{I}nternet {W}orld {S}tats},  
+  title = {{I}nternet {U}sage {S}tatistics {f}or {t}he {A}mericas},
+  year = {2011},  
+  howpublished = {\url{http://www.internetworldstats.com}},
+  note = {[15-12-2011]}}
+
+@misc{johnrfc3665,
+  author = {Johnston A., {D}onovan S., {S}parks R.},  
+  title = {SIP {B}asic {C}all {F}low {E}xamples - {B}est {C}urrent {P}ractice},
+  year = {2003},  
+  howpublished = {\url{https://tools.ietf.org/html/rfc3665}},
+  note = {[RFC: 3665] [05-01-2012]}}
+
+@PHDTHESIS{nassarm,
+  author = "{N}assar M.",
+  title = "VoIP {N}etworks {M}onitoring and {I}nstrusion {D}etection",
+ school = "Universidad Henri Poincaré", 
+  year = "2009", 
+  type = "Tesis de Doctorado",
+  address = "Francia"}
+
+@PHDTHESIS{trapp,
+  author = "{T}rapp {F}lores J. W.",
+  title = "ICIHONEY: {D}iseño e {I}mplementación de una {R}ed {T}rampa en el {I}nstituto de
+{I}nformática de la {U}niversidad {A}ustral de {C}hile",
+ school = "Escuela de Ingeniería Civil en Informática, Universidad Austral de Chile Instituto de
+Informática", 
+  year = "2009", 
+  type = "Tesis",
+  address = "Chile"}
+
+@misc{weichen,
+  author = {{W}ei {C}hen},  
+  title = {SIP {p}rogramming for the {J}ava developer},
+  year = {2006},  
+  howpublished =
+{\url{
+http://www.javaworld.com/article/2071781/java-web-development/sip-programming-for-the-java-developer
+.html}},
+  note = {[05-01-2012]}}
+
+@misc{wheeler,
+  author = {{W}heeler D.},  
+  title = {Secure {P}rogramming for {L}inux and {U}nix HOWTO},
+  year = {2004},  
+  howpublished = {\url{http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html}},
+  note = {[RFC: 3665] [05-02-2012]}}
